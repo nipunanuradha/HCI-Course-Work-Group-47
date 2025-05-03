@@ -1,0 +1,107 @@
+{
+  "objects": {
+    "room_1": {
+      "id": "room_1",
+      "name": "Living Room",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "visible": true,
+      "selectable": true,
+      "is_selected": false,
+      "type": "Room",
+      "room_type": "Living Room",
+      "width": 5.0,
+      "length": 6.0,
+      "height": 2.5,
+      "wall_color": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "north_wall_color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "south_wall_color": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "east_wall_color": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "west_wall_color": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "floor_color": [
+        0.5019607843137255,
+        0.5019607843137255,
+        0.5019607843137255
+      ],
+      "ceiling_color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "interior_wall_color": [
+        0.9,
+        0.9,
+        0.85
+      ],
+      "interior_north_wall_color": [
+        1.0,
+        0.7529411764705882,
+        0.796078431372549
+      ],
+      "interior_south_wall_color": [
+        0.596078431372549,
+        0.984313725490196,
+        0.596078431372549
+      ],
+      "interior_east_wall_color": [
+        0.6784313725490196,
+        0.8470588235294118,
+        0.9019607843137255
+      ],
+      "interior_west_wall_color": [
+        1.0,
+        0.9803921568627451,
+        0.803921568627451
+      ],
+      "interior_floor_color": [
+        0.8274509803921568,
+        0.8274509803921568,
+        0.8274509803921568
+      ],
+      "interior_ceiling_color": [
+        0.9607843137254902,
+        0.9607843137254902,
+        0.9607843137254902
+      ],
+      "wall_texture": null,
+      "floor_texture": null,
+      "ceiling_texture": null,
+      "wall_opacity": 1.0,
+      "floor_opacity": 1.0,
+      "ceiling_opacity": 1.0
+    }
+  }
+}
