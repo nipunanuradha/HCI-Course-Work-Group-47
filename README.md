@@ -1,5 +1,3 @@
-#LifeFurniture 3D Room and Furniture Modeling System
-
 # 3D Room and Furniture Modeling System
 
 A Python-based 3D modeling system for designing and visualizing room layouts with furniture.
